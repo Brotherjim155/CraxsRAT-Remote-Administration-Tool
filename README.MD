@@ -1,4 +1,4 @@
-![20230511095754](https://github.com/Efvldev/CraxsRAT-Remote-Administration-Tool/blob/main/Screenshot%202023-08-08%20111624.png?raw=true)
+![20230511095754](https://github.com/Efvldev/CraxsRAT-Remote-Administration-Tool/blob/main/Screenshot%202023-08-08%20112404.png?raw=true)
 
 # CraxsRat 
 CraxsRat最新中文版，调整部分界面，显示更美观。
