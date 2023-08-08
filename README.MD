@@ -17,12 +17,12 @@ I do NOT support any malicious use of this software. This is for educational pur
 
 
 # CONTACTS:
-TELEGRAM : @SIMHACK			/		https://t.me/simhack
+TELEGRAM :	https://t.me/efvldev
 
 ---
-|[下载地址]()|[视频演示]()|[电报交流](https://t.me/+QbV9TE35o5g3ZDZi)|[腾讯QQ](https://t.me/+QbV9TE35o5g3ZDZi)|
+|[下载地址]()|[视频演示]()|[电报交流](https://t.me/efvldev)|[腾讯QQ](https://t.me/efvldev)|
 |:------------- |:-------------:|:-------------:|:-------------:|
-|[Download]()|[Video]()|[Telegram](https://t.me/+QbV9TE35o5g3ZDZi)|[tencentQQ](https://t.me/+QbV9TE35o5g3ZDZi)|
+|[Download]()|[Video]()|[Telegram](https://t.me/efvldev)|[tencentQQ](https://t.me/efvldev)|
 
 
 
